@@ -15,6 +15,7 @@ this is a chat assistant based on the new ai model deepseek v4 or other advanced
 1. **安装依赖**：
    ```bash
    pip install requests
+2. **途径在master里面不在source code里！！！！**
 ⚠️ 注意事项
 本项目仅供学习交流使用。
 
