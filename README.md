@@ -22,7 +22,3 @@ this is a chat assistant based on the new ai model deepseek v4,aiming to help yo
 
 
 
-```cmd
-git add README.md
-git commit -m "add readme file"
-git push
