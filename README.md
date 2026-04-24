@@ -1,6 +1,6 @@
 # chatassistance
 this is a chat assistant based on the new ai model deepseek v4,aiming to help you learn how to efficiently study and communicate
-# 小深 (XiaoShen) - 计算机新生专属 AI 助教
+# 小深 (XiaoShen) - 你的专属 AI 助教
 
 这是一个基于 DeepSeek-V4 开发的智能助教脚本，专为解决计算机专业大一新生的学习痛点而设计。
 
